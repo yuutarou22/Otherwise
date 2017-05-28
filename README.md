@@ -25,4 +25,10 @@ Memo etc...
 + 
 
 # reference
-https://www.youtube.com/watch?v=UsHL7zUtW6o
++ https://www.youtube.com/watch?v=UsHL7zUtW6o
++ https://www.slideshare.net/matsukaz/git-28304397
++ https://www.slideshare.net/vector.xenon/git-14162471
++ http://qiita.com/satoshi1335/items/ead109412430a078feaa
++ http://kray.jp/blog/git-why-explanation/
++ http://rogerdudler.github.io/git-guide/index.ja.html
++ http://gitref.org/basic/
