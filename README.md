@@ -32,3 +32,4 @@ Memo etc...
 + http://kray.jp/blog/git-why-explanation/
 + http://rogerdudler.github.io/git-guide/index.ja.html
 + http://gitref.org/basic/
++ http://kray.jp/blog/git-why-explanation/
