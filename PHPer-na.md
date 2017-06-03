@@ -1,8 +1,7 @@
 # ぺちぱな #14 (2017/6/3)
 ## 講師
-hideaki kihara
-木原　ストライプ　秀明　さん。  
-shimoda ICC
+木原　ストライプ　秀明　さん。  
+下田さん（ICC卒）
 
 ## 目次
 - dockerの使い方  
@@ -21,7 +20,6 @@ shimoda ICC
 - pwd == カレントディレクトリの場所
 - ls == カレントディレクトリの中身
 - cd == 大文字小文字気をつける！
-- 
 
 
 ## コンテナと仮想マシンの違い
@@ -51,8 +49,11 @@ Winの上に仮想マシンの上に別のOSが乗っかっている
 > docker run ...
 > docker-compose up -d
 
-## 
+## ドキュメント
+- 【ぺちぱなドキュメント】https://www.gitbook.com/book/hideakikihara/phper-na-14/details
+- 【Dockerレファレンス】http://docs.docker.jp/windows/toc.html
+- 【Dockerイメージの理解とコンテナのライフサイクル】https://www.slideshare.net/zembutsu/docker-images-containers-and-lifecycle
+- 【Docker入門: コンテナ型仮想化技術の仕組みと使い方】https://www.slideshare.net/yuichi110/docker-introduction-42455180
+
+
 ## ぺちぱな#15　10月の第3？
-## 
-## 
-## 
