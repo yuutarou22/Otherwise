@@ -33,3 +33,4 @@ Memo etc...
 + http://rogerdudler.github.io/git-guide/index.ja.html
 + http://gitref.org/basic/
 + http://kray.jp/blog/git-why-explanation/
++ 【初めてGitHubリポジトリにpushしたらrejectedエラーになったときの対応メモ】http://qiita.com/takanatsu/items/fc89de9bd11148da1438
