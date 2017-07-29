@@ -54,9 +54,15 @@
 - どのようにアイデアを実現するのか
 - いくらの予算で実施するのか
   
-- 効果の見えるタイトル
-- 問題→課題を共有
+- 効果の見えるタイトル（Spot）
+- 問題→課題を共有【https://www.pref.nagasaki.jp/bunrui/kanko-kyoiku-bunka/kanko-bussan/statistics/kankoutoukei/296549.html】
+>> なんか修学旅行生が減少傾向にある？？？
 - 具体的な解決策の定時
 - 相手のメリットを明示
 - メリットの裏づけをデータや事実で提示
 - 相手の行動を促すメッセージ
+
+- 苦労した点
+> **GoogleMapAPIの取得**
+>> AndroidStudioならプロジェクト作成時、テンプレートを利用することで簡単にGoogleMapを利用することが出来るが、すでにSpotのプロジェクトを作成していたため、SHA-1の取得などが難しかった。
+参考【http://qiita.com/rkonno/items/8bec3d5a45235fc88a08】　実際にテンプレで作ってみてリソースを参考にした。
