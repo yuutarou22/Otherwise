@@ -66,3 +66,25 @@
 > **GoogleMapAPIの取得**
 >> AndroidStudioならプロジェクト作成時、テンプレートを利用することで簡単にGoogleMapを利用することが出来るが、すでにSpotのプロジェクトを作成していたため、SHA-1の取得などが難しかった。
 参考【http://qiita.com/rkonno/items/8bec3d5a45235fc88a08】　実際にテンプレで作ってみてリソースを参考にした。
+> **現在地の表示**
+>> GoogleMapはオーバーフローすんじゃねってくらい小数点以下何桁使ってんだってくらい精密な座標で現在地を出す。
+その現在地にマーカーを出すまでに3日かかってしまった。
+全然読み込まないと思っていたら地図の表示範囲を広く設定していたため単純に読み込み時間が長くかかっていただけだった。自分が勘違いしてエラーだと思い作業が進まなかった。
+
+
+
+
+##参考
+- チュートリアルの表示【http://araiyusuke.hatenadiary.com/entry/2015/10/28/175559】
+- ライブラリの読み込み方【http://sakebook.hatenablog.com/entry/2014/08/17/004540】
+【http://qiita.com/icchi_h/items/8ce738ce8511ef69c799】
+【http://blog.techium.jp/entry/2016/05/30/090000】
+- NIFTYのサンプル・チュートリアル【http://mb.cloud.nifty.com/doc/current/tutorial/tutorial_android.html】
+- 色んな入力イベント【https://developer.android.com/guide/topics/ui/ui-events.html?hl=ja】
+- タッチでWeb上に飛ぶ【http://d.hatena.ne.jp/androidprogram/20100518/1274184600】
+- GUIを使いこなそう！【https://allabout.co.jp/gm/gc/80739/4/】
+- まとめページ【http://seesaawiki.jp/w/moonlight_aska/d/%A5%DC%A5%BF%A5%F3%A4%AC%B2%A1%A4%B5%A4%EC%A4%EB%A4%C8....】
+【http://www110.kir.jp/Android/index.html】
+【https://akira-watson.com/】
+- ゲージ【https://teratail.com/questions/5768】
+- アプリ全体でグローバル変数【http://tech-gym.com/2012/10/android/959.html】
