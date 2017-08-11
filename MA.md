@@ -100,4 +100,5 @@
 【https://developer.android.com/training/basics/data-storage/databases.html?hl=ja】
 - 文字列の検索・分割など【https://akira-watson.com/android/string-class.html】
 - 画像とテキストをリスト表示【https://akira-watson.com/android/baseadapter.html】
-
+- SQLite【http://android.roof-balcony.com/shori/strage/sqlite/】
+【https://techbooster.org/android/9335/】
