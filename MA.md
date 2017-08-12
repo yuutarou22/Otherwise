@@ -82,19 +82,31 @@
 - NIFTYのサンプル・チュートリアル【http://mb.cloud.nifty.com/doc/current/tutorial/tutorial_android.html】
 - 色んな入力イベント【https://developer.android.com/guide/topics/ui/ui-events.html?hl=ja】
 - タッチでWeb上に飛ぶ【http://d.hatena.ne.jp/androidprogram/20100518/1274184600】
+
 - GUIを使いこなそう！【https://allabout.co.jp/gm/gc/80739/4/】
+
 - まとめページ【http://seesaawiki.jp/w/moonlight_aska/d/%A5%DC%A5%BF%A5%F3%A4%AC%B2%A1%A4%B5%A4%EC%A4%EB%A4%C8....】
 【http://www110.kir.jp/Android/index.html】
 【https://akira-watson.com/】
 【http://qiita.com/ryo-ma/items/1a30748e2fc945bcdc6b】
+【http://qiita.com/ogawatachi/items/963edd47bf62ee067fd0#%E3%83%AA%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9】
+
 - ゲージ【https://teratail.com/questions/5768】
+
 - アプリ全体でグローバル変数【http://tech-gym.com/2012/10/android/959.html】
 【http://tech-gym.com/2012/10/android/959.html】
 【https://akira-watson.com/android/global-val.html】
+
 - Twitterに共有するIntent【http://qiita.com/gari_jp/items/7e30eba5de3b470a59cf】
+
 - GoogleMapタップしてマーカ追加【https://akira-watson.com/android/google-map-onclick.html】
+
 - Preferencesでの保存【http://kuwalab.hatenablog.jp/entry/20110105/p1】
 【http://thr3a.hatenablog.com/entry/20130923/1379904990】
+【http://qiita.com/YAmi/items/3e5640f365277d70f255】
+【http://qiita.com/Yuki_Yamada/items/f8ea90a7538234add288】
+【https://techbooster.org/android/application/468/】
+
 - 画像読み出しの方法（パスでやったら？）【https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13120320723】
 - SQLiteでの保存【https://techbooster.org/android/application/567/】
 【https://developer.android.com/training/basics/data-storage/databases.html?hl=ja】
@@ -102,3 +114,6 @@
 - 画像とテキストをリスト表示【https://akira-watson.com/android/baseadapter.html】
 - SQLite【http://android.roof-balcony.com/shori/strage/sqlite/】
 【https://techbooster.org/android/9335/】
+【http://it-trick-java.appspot.com/android/c2019/page25058.html】
+【http://umegusa.hatenablog.jp/entry/2014/02/09/215935】
+- 下らへんのやつが、フラットデザインぽくて使いやすそう【http://asky.hatenablog.com/entry/2016/05/04/194303】
