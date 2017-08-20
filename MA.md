@@ -106,6 +106,7 @@
 【http://qiita.com/YAmi/items/3e5640f365277d70f255】
 【http://qiita.com/Yuki_Yamada/items/f8ea90a7538234add288】
 【https://techbooster.org/android/application/468/】
+【http://qiita.com/mackiso/items/7b0b0060b0489b62b4cb】
 
 - 画像読み出しの方法（パスでやったら？）【https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13120320723】
 - SQLiteでの保存【https://techbooster.org/android/application/567/】
@@ -117,3 +118,4 @@
 【http://it-trick-java.appspot.com/android/c2019/page25058.html】
 【http://umegusa.hatenablog.jp/entry/2014/02/09/215935】
 - 下らへんのやつが、フラットデザインぽくて使いやすそう【http://asky.hatenablog.com/entry/2016/05/04/194303】
+- Setting・設定画面を簡単に作る【https://techbooster.org/android/ui/986/】
