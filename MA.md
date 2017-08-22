@@ -93,6 +93,7 @@
 
 
 - ○チュートリアルの表示【http://araiyusuke.hatenadiary.com/entry/2015/10/28/175559】
+【http://qiita.com/phicdy/items/a8c9b9f93192bd5efd71】
 - ○ゲージ【https://teratail.com/questions/5768】
 - ○Preferencesでの保存【http://kuwalab.hatenablog.jp/entry/20110105/p1】
 【http://thr3a.hatenablog.com/entry/20130923/1379904990】
