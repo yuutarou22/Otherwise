@@ -134,3 +134,13 @@
 【https://techbooster.org/android/9335/】
 【http://it-trick-java.appspot.com/android/c2019/page25058.html】
 【http://umegusa.hatenablog.jp/entry/2014/02/09/215935】
+
+
+
+RSSリーダ作りたい  
+https://headlines.yahoo.co.jp/rss/list
+http://www3.nhk.or.jp/toppage/rss/index.html
+http://news.denfaminicogamer.jp/manga/170831
+http://ai-biblio.com/articles/732/
+http://m-shige1979.hatenablog.com/entry/2015/07/15/080000
+http://d.hatena.ne.jp/unagi_brandnew/20100326/1269596483
