@@ -16,6 +16,18 @@ public class Main{
    //関数に処理プログラムを与えられる。普通は単なる引数のみだよね
    google(x->x%2==0);
    **/
+    
+    
+    
+    List<Integer> list = new ArrayList<>();
+    
+    list.add(1);
+    list.add(2);
+    list.add(3);
+    list.add(4);
+    
+    list.forEach(System.out::println);
+    //参照をリストの一つ一つの要素に動かして表示する
   }
 
 }
