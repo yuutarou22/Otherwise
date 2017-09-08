@@ -79,7 +79,9 @@
 ・福祉関係（ラズパイとか使って）認知症と幼児（孫）、息子娘の代が仲介役ガジェット？
 ・指定された日時が「地球が何回回ったとき」か分かるアプリ（4,600,000,000*365回）+「？」
 ・「先生に言ってやろ～」如何にして言わせないかゲーム
-・
+・「Tegaki」API使って何かできないかなーhttps://docs.tegaki.ai/methods/form/post
+・「LINEBot」使って何かできないかなーhttp://qiita.com/yoshizaki_kkgk/items/bd4277d3943200beab26
+ラズパイで写真撮って、画像をテキスト化して、議事録に！？
 
 
 
@@ -98,6 +100,8 @@
 【https://akira-watson.com/】
 【http://qiita.com/ryo-ma/items/1a30748e2fc945bcdc6b】
 【http://qiita.com/ogawatachi/items/963edd47bf62ee067fd0#%E3%83%AA%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9】
+【https://www.slideshare.net/OESF_Education/android-ui-32259371】
+【https://www.slideshare.net/OESF_Education/android-aplication-advancedjp】
 
 
 
