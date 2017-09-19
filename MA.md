@@ -74,17 +74,6 @@
 
 
 
-
-・RSS読み込むアプリ作りたい！
-・福祉関係（ラズパイとか使って）認知症と幼児（孫）、息子娘の代が仲介役ガジェット？
-・指定された日時が「地球が何回回ったとき」か分かるアプリ（4,600,000,000*365回）+「？」
-・「先生に言ってやろ～」如何にして言わせないかゲーム
-・「Tegaki」API使って何かできないかなーhttps://docs.tegaki.ai/methods/form/post
-・「LINEBot」使って何かできないかなーhttp://qiita.com/yoshizaki_kkgk/items/bd4277d3943200beab26
-ラズパイで写真撮って、画像をテキスト化して、議事録に！？
-
-
-
 ##参考
 - ライブラリの読み込み方【http://sakebook.hatenablog.com/entry/2014/08/17/004540】
 【http://qiita.com/icchi_h/items/8ce738ce8511ef69c799】
@@ -141,15 +130,6 @@
 
 
 
-RSSリーダ作りたい  
-https://headlines.yahoo.co.jp/rss/list  
-http://www3.nhk.or.jp/toppage/rss/index.html  
-http://news.denfaminicogamer.jp/manga/170831  
-http://ai-biblio.com/articles/732/  
-http://m-shige1979.hatenablog.com/entry/2015/07/15/080000  
-http://d.hatena.ne.jp/unagi_brandnew/20100326/1269596483  
-http://markezine.jp/help/rss/  
-https://liginc.co.jp/feed  
 
 【#６ デジコン片渕さんLT】
 一人でものづくりをしようとすると大変（当たり前）
